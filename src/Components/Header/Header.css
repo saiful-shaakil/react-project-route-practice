@@ -1,0 +1,17 @@
+.header-section {
+  background-color: rgb(175, 205, 205);
+}
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-right: 150px;
+  margin-left: 150px;
+}
+
+.link {
+  margin-right: 20px;
+  text-decoration: none;
+  font-size: 20px;
+  color: crimson;
+}
