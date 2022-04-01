@@ -10,7 +10,7 @@ const Header = () => {
           <h1>TShirt House</h1>
         </div>
         <div className="links">
-          <Link to="/home" className="link">
+          <Link to="/" className="link">
             Home
           </Link>
           <Link to="/review" className="link">

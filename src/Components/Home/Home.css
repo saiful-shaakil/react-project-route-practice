@@ -1,0 +1,12 @@
+.shop-section {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  margin-top: 50px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+.tshirt-section {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}

@@ -1,0 +1,22 @@
+.tshirt {
+  height: 350px;
+  width: 300px;
+  border: 1px solid rgb(236, 233, 233);
+}
+.tshirt img {
+  height: 250px;
+  margin: 0;
+}
+.tshirt h3,
+p {
+  margin: 5px;
+}
+.tshirt button {
+  border: none;
+  width: 100px;
+  height: 20px;
+  font-size: 15px;
+  background-color: orange;
+  border-radius: 2px;
+  cursor: pointer;
+}
